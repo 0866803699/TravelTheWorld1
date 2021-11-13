@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/bg_message.xml" value="0.3365740740740741" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/bo_tron.xml" value="0.3880208333333333" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/horizontal_line.xml" value="0.3365740740740741" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/ic_24px_star.xml" value="0.3365740740740741" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3401826484018265" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.3365740740740741" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/rounded_linear_layout.xml" value="0.3365740740740741" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/drawable/search_bg.xml" value="0.3880208333333333" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13420348058902276" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_booking_fragment.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_change_password.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_chat_fragment.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_details.xml" value="0.32212885154061627" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_details_search.xml" value="0.10601851851851851" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_details_viet_nam.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_forgot_password.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_home_fragment.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_hotel_fragment.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_hotel_infor.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_main2.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_profile.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_search.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/activity_splash.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/fragment_home1.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/hotel_item.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/item_book.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/item_message.xml" value="0.32222222222222224" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/item_search.xml" value="0.30972222222222223" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/recent_item.xml" value="0.33" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/layout/top_places_item.xml" value="0.33055555555555555" />
+        <entry key="..\:/Save and/TravelTheWorld/app/src/main/res/menu/menu_bottom_nav.xml" value="0.32222222222222224" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

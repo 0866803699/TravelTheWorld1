@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145412291689",
+    "project_id": "travel-projects-e5210",
+    "storage_bucket": "travel-projects-e5210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145412291689:android:9848b1538aae1f4239f6f8",
+        "android_client_info": {
+          "package_name": "com.example.traveltheworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145412291689-a56ghkn3p2d0e5gaj3hhpgcae1jq2sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJJMxnsIq5qTs9Alv2vd73Y0Uworl5a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145412291689-a56ghkn3p2d0e5gaj3hhpgcae1jq2sfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
